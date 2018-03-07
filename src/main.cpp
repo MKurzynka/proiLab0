@@ -5,7 +5,7 @@ Numer zadania 0
 */
 
 #include <iostream>
-#include "calculatorFunctions.h"
+#include "calculatorFunctions.hpp"
 using namespace std;
 
 int main()

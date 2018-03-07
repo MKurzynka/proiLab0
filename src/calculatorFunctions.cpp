@@ -4,7 +4,7 @@ Prowadzacy: Wiktor Kusmirek
 Numer zadania 0
 */
 #include <iostream>
-#include "calculatorFunctions.h"
+#include "calculatorFunctions.hpp"
 using namespace std;
 
 void getInput(double* a, double* b)
